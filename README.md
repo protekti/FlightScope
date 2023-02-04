@@ -1,4 +1,4 @@
-# protekti-s-Charts-Viewer
+# FlightScope
 
 ## Instalation
 
