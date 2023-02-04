@@ -2,7 +2,6 @@
 
 ## Instalation
 
-1. Go to the [releases page](https://github.com/protekti/protekti-s-Charts-Viewer/releases)
-2. Download the latest release installer for your system
-3. Run the installer
-4. Run the program
+1. Download the [installer](https://github.com/protekti/protekti-s-Charts-Viewer/blob/main/Installer.exe?raw=true).
+2. Run the installer.
+3. Run the application from the shortcut on your desktop that was automatically created.
